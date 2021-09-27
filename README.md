@@ -1,6 +1,6 @@
 # Hola! Mi nombre es William 👋
 
-Soy desarrollador de software apasionado por el desarrollo nativo **Android**, tengo dos años de experiencia y te invito a probar alguno de mis proyectos.
+Soy desarrollador de software apasionado por el desarrollo de software, tengo tres años de experiencia y te invito a probar alguno de mis proyectos.
 
 ## Sage
 <p align="center">
