@@ -1,134 +1,16 @@
-# Hola! Mi nombre es William 👋
+<h1 align="center">Hi 👋, I'm William Condori</h1>
+<h3 align="center">A passionate software developer from Bolivia</h3>
 
-Soy desarrollador de software apasionado por el desarrollo de software, tengo tres años de experiencia y te invito a probar alguno de mis proyectos.
+- 👨‍💻 All of my projects are available at [https://williamabelcondori.github.io](https://williamabelcondori.github.io)
 
-## Sage
-<p align="center">
-  <img width="50%" src="https://williamabelcondori.github.io/src/img/proyetoSage.png" alt="logo-sage" />
-</p>
-<p>
-SAGE surgió el año 2019 de una idea la cual era optimizar el registro de la asistencia de los estudiantes de la Escuela Militar de Ingeniería UASC. Fue desarrollado como una aplicación nativa para Android, como complemento del sistema incluyó la creación de una API la cuales esta desarrollada con PHP y como sistema de gestión de base de datos se está utilizando MySQL.
-</p>
+- 📫 How to reach me **1williamcondori1@gmail.com**
 
- <b>Tecnologías</b>
-<!--Inicio Tecnologías-->
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://1000marcas.net/wp-content/uploads/2020/01/Android-logo.png" alt="logo-android">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://anthoncode.com/wp-content/uploads/2019/01/java-logo-png.png" alt="logo-java">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://cms-assets.tutsplus.com/uploads/users/845/posts/23800/preview_image/preview.jpg" alt="logo-volley">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="logo-sqlite">
-      </td>
-   </tr>
-  </tbody>
-</table>
-
-<!--Fin Tecnologías Sage-->
-<a href="https://play.google.com/store/apps/details?id=com.emi.parte.partesemisage&amp;hl=es_419" target="_blank">Ver en la PlayStore</a>
-
-
-## Civil Labs Solution
-<p align="center">
-  <img width="50%" src="https://williamabelcondori.github.io/src/img/proyetoCivilLabs.png" alt="logo-civil" />
-</p>
-<p>
-  Civil Labs Solution es un sistema de supervisión geotécnica de carreteras, fue desarrollado como una aplicación nativa para Android, tiene una Arquitectura MVP, maneja una base de datos internar SQLite y como ORM utiliza Room, el sistema inicialmente fue desarrollado con Java pero se esta migrando a Kotlin. Una de las características más importantes del sistema es la obtención de reportes.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/williamabelcondori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="williamabelcondori" height="30" width="40" /></a>
+<a href="https://twitter.com/asistiriwilliam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asistiriwilliam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/williamabelcondori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamabelcondori" height="30" width="40" /></a>
 </p>
 
-<b>Tecnologías</b>
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://1000marcas.net/wp-content/uploads/2020/01/Android-logo.png" alt="logo-android">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://anthoncode.com/wp-content/uploads/2019/01/java-logo-png.png" alt="logo-java">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://miro.medium.com/max/480/1*6J6mPSTvA4odwJ_GxeZg-g.png" alt="logo-kotlin">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="logo-sqlite">
-      </td>
-   </tr>
-  </tbody>
-</table>
-
-<a href="https://play.google.com/store/apps/details?id=com.william.abel.proyectocivil&amp;hl=es_419" target="_blank">Ver en la PlayStore</a>
-
-## Himnario 432Hz
-<p align="center">
-  <img width="50%" src="https://williamabelcondori.github.io/src/img/proyetoHimnario.png" alt="logo-Himnario" />
-</p>
-
-<p>
-  Creado con la finalidad de dar un mayor apoyo a las personas a la hora de interpretar los himnos en la iglesia 'Luz de Un Nuevo Dia'. Este sistema utiliza Android Jetpack el cual es una colección de bibliotecas de Android que incorpora prácticas recomendadas.
- </p>
- 
- <b>Tecnologías</b>
- <table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://1000marcas.net/wp-content/uploads/2020/01/Android-logo.png" alt="logo-android">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://www.appfutura.com/uploads/blog/2018/07/0d3ed8431ea25caef3f403b195ae9f241531728194.jpg" alt="logo-android-jetpack">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://miro.medium.com/max/480/1*6J6mPSTvA4odwJ_GxeZg-g.png" alt="logo-kotlin">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://descargaryoutube.com.mx/wp-content/uploads/2017/10/android.jpg" alt="logo-youtibe-api">
-      </td>
-   </tr>
-  </tbody>
-</table>
-<a href="https://play.google.com/store/apps/details?id=com.industrias.william.himnarioalabanzas&amp;hl=es_419" target="_blank">Ver en la PlayStore</a>
-
-## Sinfonía en el Alma
-
-<p align="center">
-  <img width="50%" src="https://williamabelcondori.github.io/src/img/proyetoSinfoniaDelAlma.png" alt="logo-sinfonia" />
-</p>
-
-<p>
-Creado con la finalidad de dar un mayor apoyo a las personas a la hora de interpretar los himnos en la iglesia 'Luz de Un Nuevo Dia'. Fue desarrollado con tecnologías Web con el objetivo de tener un mayor alcance de usuarios.
- </p>
- 
- <b>Tecnologías</b>
- <table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://lineadecodigo.com/wp-content/uploads/2014/04/html5.png" alt="logo-html">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="logo-css">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"
-               alt="logo-js">
-      </td>
-      <td align="center" valign="middle">
-          <img width="148px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" alt="logo-sass">
-      </td>
-          <td align="center" valign="middle">
-          <img width="148px" src="https://miro.medium.com/max/547/1*XUK4XE1-j9ju7qWVzcIsYg.png"
-               alt="logo-pug">
-      </td>
-   </tr>
-  </tbody>
-</table>
-<a href="https://williamabelcondori.github.io/SinfoniaEnElAlma/" target="_blank">Ver Página</a>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
