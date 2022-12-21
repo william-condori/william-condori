@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Condori</h1>
 <h3 align="center">A passionate software developer from Bolivia</h3>
 
-- 👨‍💻 All of my projects are available at [https://williamabelcondori.github.io](https://williamabelcondori.github.io)
+- 👨‍💻 All of my projects are available at [https://william-condori.github.io/](https://william-condori.github.io/)
 
 - 📫 How to reach me **1williamcondori1@gmail.com**
 
